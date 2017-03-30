@@ -1,0 +1,24 @@
+﻿20170329:211031 - Não foi possível obter o Aluno com a matricula: 123
+20170329:211100 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211100 - Não foi possível adicionar o aluno: Matricula>123; Nome>Gustavo Fonseca
+20170329:211100 - Não foi possível obter o Aluno com a matricula: 258
+20170329:211100 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211100 - Não foi possível adicionar o aluno: Matricula>258; Nome>Gabriel da silva
+20170329:211100 - Não foi possível obter o Aluno com a matricula: 333
+20170329:211100 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211100 - Não foi possível adicionar o aluno: Matricula>333; Nome>Rafael
+20170329:211100 - Não foi possível obter o Aluno com a matricula: 578
+20170329:211100 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211100 - Não foi possível adicionar o aluno: Matricula>578; Nome>Victor Hugo
+20170329:211100 - Não foi possível obter o Aluno com a matricula: 125
+20170329:211100 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211100 - Não foi possível adicionar o aluno: Matricula>125; Nome>Eduardo
+20170329:211100 - Não foi possível obter o Aluno com a matricula: 751
+20170329:211100 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211100 - Não foi possível adicionar o aluno: Matricula>751; Nome>Renato Cabral
+20170329:211100 - Não foi possível obter o Aluno com a matricula: 124751647
+20170329:211100 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211100 - Não foi possível adicionar o aluno: Matricula>124751647; Nome>Edwilson da silva
+20170329:211101 - Não foi possível obter o Aluno com a matricula: 204873848
+20170329:211101 - Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: SQL Network Interfaces, error: 26 - Erro ao Localizar Servidor/Instância Especificada)
+20170329:211101 - Não foi possível adicionar o aluno: Matricula>204873848; Nome>Isais S Junior

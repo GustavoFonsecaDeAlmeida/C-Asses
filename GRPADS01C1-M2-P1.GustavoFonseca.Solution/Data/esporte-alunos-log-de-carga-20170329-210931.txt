@@ -1,0 +1,8 @@
+matricula>123; nome>Gustavo Fonseca; ativo>True; Adicionado
+matricula>258; nome>Gabriel da silva; ativo>False; Adicionado
+matricula>333; nome>Rafael; ativo>True; Adicionado
+matricula>578; nome>Victor Hugo; ativo>True; Adicionado
+matricula>125; nome>Eduardo; ativo>False; Adicionado
+matricula>751; nome>Renato Cabral; ativo>True; Adicionado
+matricula>124751647; nome>Edwilson da silva; ativo>True; Adicionado
+matricula>204873848; nome>Isais S Junior; ativo>False; Adicionado
